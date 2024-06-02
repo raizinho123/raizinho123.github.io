@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Orbitron:wght@400..900&family=Poetsen+One&family=Roboto+Mono:wght@300&display=swap");
+body {
+    background-color: #2d2d2d;
+    color: white;
+    text-align: center;
+    font-family: Orbitron;
+}
+#numInput {
+    background-color: #2d2d2d;
+    border-radius: 5px;
+    color: white;
+}
+#enviar {
+    background-color: rgb(110, 101, 101);
+    color: white;
+    width: 10%;
+    border-radius: 5px;
+    
+}
+#enviar:hover {
+    background-color: #2d2d2d;
+}
+#escondido {
+    font-size: 10px;
+    display: flex;
+    color: lightgreen;
+    margin-top: 70%;
+}
+#input-escondido {
+    background-color: #2d2d2d;
+    opacity: 8%;
+}
+#input-escondido:hover {
+    background-color: #303030;
+    opacity: 10%;
+    color: white;
+}
+#input1 {
+    opacity: 0%;
+}
+#input2 {
+    opacity: 0%;
+}
+#pEscondido {
+    opacity: 0%;
+    color: white;
+}
+#input1 {
+    background-color: #2d2d2d;
+    opacity: 0%;
+}
+#input1:hover {
+    background-color: #303030;
+    color: white;
+}
+#input2 {
+    background-color: #2d2d2d;
+    opacity: 0%;
+}
+#input2:hover {
+    background-color: #303030;
+    color: white;
+}
+
+#SUCESS_GAME {
+    color: lightgreen;
+    font-size: 10px;
+    display: flex;
+    margin-top: 70%;
+}
+
+#input1F {
+    background-color: #2d2d2d;
+    border-radius: 6px;
+    color: white;
+}
+#input1F:hover {
+    background-color: #303030;
+}
+
+#enviarF {
+    background-color: #303030;
+    color: white;
+    border-radius: 5px;
+}
+
+#enviarF:hover {
+    background-color: #2d2d2d;
+}
